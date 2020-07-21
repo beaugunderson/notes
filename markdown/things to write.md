@@ -1,0 +1,3 @@
+- blog post: building a reading habit
+- blog post: exhaustive list of interests
+- blog post: complacencer/satisficer optimizer/maximizer

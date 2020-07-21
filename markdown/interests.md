@@ -1,0 +1,267 @@
+- # themes
+    - "detective work"
+    - fairness/protecting the vulnerable
+- # previous interests
+    - scuba
+    - sailing
+    - ocean rowing
+    - mechanical keyboards
+    - learning korean
+    - learning norwegian
+    - cooking
+    - thin lizzy
+    - mew
+    - banksy
+    - feynmann
+- # interests
+    - quantified self
+        - sleep tracking
+        - weight
+        - productivity
+            - rescuetime
+        - frontier
+    - outdoors
+        - motorcycles
+            - adv riding
+            - custom bikes
+            - dirt biking
+        - mountain biking
+        - camping
+        - van life
+        - hiking
+    - tiny house living
+    - minimalism
+    - maximizing/optimizing
+        - toothbrushes
+            - radius toothbrush
+            - oral b pro
+            - curaprox
+    - meaning-making/sense-making
+    - games
+        - computer games
+            - tower defense
+            - arpgs
+            - valorant
+        - tabletop games
+        - card games
+            - poker
+    - reading
+        - science fiction
+            - william gibson
+            - cyberpunk
+        - non-fiction
+        - graphic novels
+        - goodreads
+    - adhd
+        - rejection-sensitive dysphoria
+        - ocd/tourette's comorbidities
+        - fidget toys
+    - mood & anxiety
+    - addiction
+    - caffeine
+    - alzheimer's
+    - aspirin sensitivity
+    - capitalism
+    - carpal tunnel syndrome/rsi
+    - citizen science
+    - cryptocurrencies
+        - DAOs
+    - wisdom of friends
+        - kmikeym
+        - $ALEX
+    - prediction markets
+        - augur
+        - metaculus
+        - predict-it
+            - election profitmakers
+    - cyberpunk
+    - empathy
+    - hearing loss
+    - politics
+    - visualization
+        - cartography & maps
+            - openstreetmap
+        - timelines
+        - gis/geographic information systems
+    - gadgets
+    - marijuana/cbd
+    - psychedelics
+        - psilocybin
+    - pharmacogenetics
+        - CYP2D6
+    - food
+        - picky eating
+        - dark chocolate
+        - soylent/meal replacement
+        - intermittent fasting
+        - ramen
+        - bacon cheeseburgers
+    - procrastination
+    - sleep quality
+    - social justice
+        - protecting the vulnerable
+        - trans rights
+        - native american rights
+    - social work
+    - virtual communities
+        - community design
+    - genetic algorithms
+        - virtual creatures
+    - music
+        - sampling
+            - podcast
+        - guitar
+        - pedal steel guitar
+        - bass
+        - bands
+            - rush
+            - iron maiden
+            - stephen malkmus / pavement
+            - bohren und der club of gore
+            - people under the stairs
+            - steely dan
+            - neil young
+        - last.fm
+    - omics
+        - genomics
+        - microbiomics
+    - politics
+    - privacy
+    - gift cultures
+        - http://www.lightspeedmagazine.com/fiction/maneki-neko/
+    - communication & language
+        - frame conflict
+            - the conduit metaphor
+        - metaphors in general
+        - non-violent communication
+        - kennings
+        - koans
+    - emotion/affect
+    - status
+    - hierarchy
+        - meritocracy
+        - holocracy
+    - scams
+    - software development
+        - javacsript & typescript
+        - python
+        - opensource
+    - rollerskating
+    - staying up to date
+        - hypervigilance
+        - news discords
+    - genealogy
+        - "detective work"
+    - OSINT
+    - weird organizations
+        - the museum of jurassic technology
+        - the center for land use interpretation
+    - art
+        - generative/procedural art
+            - twitter bots
+        - modern art
+        - street art
+            - green street art
+        - glitch art
+        - land art
+            - goldsworthy
+    - fallacies
+    - irrationalities
+    - software-defined radio (sdr)
+        - satellite communication
+        - data vs. voice
+        - SIGINT
+        - pager decoding
+            - HIPAA
+    - physical infrastructure
+        - sinking bridges and other catastrophes
+    - internet infrastructure
+        - internet history
+        - "where wizards stay up late"
+    - decentralization
+    - fonts
+        - for programming
+        - for design
+    - existentialism
+    - blogging/rss
+    - poetry
+    - myth
+    - unintended consequences
+    - undersea cables
+    - electronics
+        - so many half-baked projects
+    - photography
+        - timelapse
+    - red shoes
+        - adidas
+        - nike
+        - onitsuka tiger
+        - puma
+    - black t-shirts
+    - movies
+        - documentaries
+        - criterion collection
+        - foreign films
+        - letterboxd
+        - hong kong cinema
+        - heist movies
+        - david lynch
+        - wong kar-wai
+        - tony leung
+        - maggie chung
+    - podcasts
+    - 3d
+        - visual effects
+        - 3dsmax
+        - maya
+        - blender
+        - houdini
+            - procedural 3d
+        - pov-ray
+    - mma/ufc
+    - lego
+    - the long now/long-term thinking
+    - futurism
+        - kevin kelly
+        - stewart brand
+        - ryan phelan
+        - (et al)
+    - wired magazine
+    - cybernostalgia
+    - algorithmic trading
+    - haiti/american imperialism
+    - engineering management
+    - streaming software development
+    - networking
+    - free will
+    - the memex
+    - maximizer/satisficer and complacencer/optimizer duality
+    - people
+        - visakanv
+        - sonyasupposedly
+        - donmexlar
+        - david berman
+        - david rees
+            - get your war on
+            - my new fighting technique is unstoppable
+            - the skeleton killers
+            - going deep
+    - ansi art
+        - sixteencolors
+        - blocktronics
+    - personal knowledge management
+        - roam
+        - notion
+        - personal wikis
+        - notetaking
+            - nvALT, nvUltra
+            - Notational Ferocity
+    - pins & stickers
+    - dogs
+    - protocols
+        - secure scuttlebutt
+        - network protocols
+        - radio protocols
+    - plotters & plotter art
+    - cnc & milling
+    - parser generators
