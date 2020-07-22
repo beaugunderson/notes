@@ -2631,7 +2631,34 @@
     "title": "GPT-3"
   },
   {
+    "children": [
+      {
+        "create-email": "beau@beaugunderson.com",
+        "create-time": 1595366481190,
+        "edit-email": "beau@beaugunderson.com",
+        "edit-time": 1595366491911,
+        "string": "started collecting [[roam tools]]",
+        "uid": "lEdwpT0tm"
+      }
+    ],
     "edit-time": 1595304009568,
     "title": "July 21st, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-email": "beau@beaugunderson.com",
+        "create-time": 1595366494686,
+        "edit-email": "beau@beaugunderson.com",
+        "edit-time": 1595366532055,
+        "string": "[eloquent](https://eloquent.works/) chrome extension for notetaking inside chrome, can export to roam",
+        "uid": "Vn96xP72A"
+      }
+    ],
+    "create-email": "beau@beaugunderson.com",
+    "create-time": 1595366491134,
+    "edit-email": "beau@beaugunderson.com",
+    "edit-time": 1595366491137,
+    "title": "roam tools"
   }
 ]

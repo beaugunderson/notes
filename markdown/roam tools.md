@@ -1,0 +1,1 @@
+- [eloquent](https://eloquent.works/) chrome extension for notetaking inside chrome, can export to roam
