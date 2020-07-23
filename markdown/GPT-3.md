@@ -1,2 +1,3 @@
 - [minimaxir's examples](https://github.com/minimaxir/gpt-3-experiments/tree/master/examples)
 - [openai api community examples](https://www.notion.so/OpenAI-API-Community-Examples-ce088785e541498698c1895798e67664)
+- [gwern's writeup](https://www.gwern.net/GPT-3)

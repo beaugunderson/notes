@@ -2622,6 +2622,14 @@
         "edit-time": 1595262534313,
         "string": "[openai api community examples](https://www.notion.so/OpenAI-API-Community-Examples-ce088785e541498698c1895798e67664)",
         "uid": "pveMxOY5x"
+      },
+      {
+        "create-email": "beau@beaugunderson.com",
+        "create-time": 1595398671504,
+        "edit-email": "beau@beaugunderson.com",
+        "edit-time": 1595398678301,
+        "string": "[gwern's writeup](https://www.gwern.net/GPT-3)",
+        "uid": "pK1Wt1PQj"
       }
     ],
     "create-email": "beau@beaugunderson.com",
@@ -2660,5 +2668,9 @@
     "edit-email": "beau@beaugunderson.com",
     "edit-time": 1595366491137,
     "title": "roam tools"
+  },
+  {
+    "edit-time": 1595426745500,
+    "title": "July 22nd, 2020"
   }
 ]
