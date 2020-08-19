@@ -771,6 +771,14 @@
                 "edit-time": 1595138848951,
                 "string": "DAOs",
                 "uid": "_Pl4iHeZM"
+              },
+              {
+                "create-email": "beau@beaugunderson.com",
+                "create-time": 1597804382936,
+                "edit-email": "beau@beaugunderson.com",
+                "edit-time": 1597804385456,
+                "string": "yield farming",
+                "uid": "VD6ivtc5Z"
               }
             ],
             "create-email": "beau@beaugunderson.com",
@@ -2251,6 +2259,14 @@
                 "edit-time": 1595138848957,
                 "string": "david berman",
                 "uid": "QM1F5vbLE"
+              },
+              {
+                "create-email": "beau@beaugunderson.com",
+                "create-time": 1597804412262,
+                "edit-email": "beau@beaugunderson.com",
+                "edit-time": 1597804416455,
+                "string": "stephen malkmus",
+                "uid": "RYv2KEgyR"
               },
               {
                 "children": [

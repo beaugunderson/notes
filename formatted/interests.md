@@ -66,6 +66,7 @@
     - citizen science
     - cryptocurrencies
         - DAOs
+        - yield farming
     - wisdom of friends
         - kmikeym
         - $ALEX
@@ -241,6 +242,7 @@
         - sonyasupposedly
         - donmexlar
         - david berman
+        - stephen malkmus
         - david rees
             - get your war on
             - my new fighting technique is unstoppable
